@@ -1,0 +1,13 @@
+[
+   {
+      "name": "Redmi Note 7",
+      "brand": "Xiaomi",
+      "codename": "lavender",
+      "supported_versions": [
+         {
+            "version_code": "ten",
+            "xda_thread": "Soon"
+         }
+      ]
+   }
+]
